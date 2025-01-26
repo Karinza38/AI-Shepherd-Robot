@@ -1,4 +1,4 @@
-# AI-Shepherd-Robot - Grade: 18 (in a scale of 20 points)
+ # AI-Shepherd-Robot - Grade: 18 (in a scale of 20 points)
 Repository of code for the Artificial Intelligence course.
 
 This code was made using Lejos EV3 API.
